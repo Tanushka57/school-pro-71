@@ -1,0 +1,49 @@
+.announcement {
+    background-color: deepskyblue;
+}
+#marqueeStyle {
+    font-size: 20;
+    color: white;
+}
+#j{
+    width: 300px;
+    height: 300px;
+    text-align: center
+}
+#welcome{
+    text-align: center;
+}
+.span p{
+    color: red;
+}
+.book
+{
+  cursor: pointer;
+}
+
+.book hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+#dvjb{
+    width: 300px;
+    height: 300px;
+}
